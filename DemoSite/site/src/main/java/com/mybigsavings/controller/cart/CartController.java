@@ -58,7 +58,7 @@ public class CartController extends BroadleafCartController {
         if (isAjaxRequest(request)) {
             returnPath += " :: ajax";
         }
-        System.out.println("india");
+        System.out.println("india hai");
         return returnPath;
     }
     
