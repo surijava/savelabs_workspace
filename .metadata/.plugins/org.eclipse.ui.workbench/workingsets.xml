@@ -7,6 +7,9 @@
 <item elementID="=admin" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=site" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=core" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/admin" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/core" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/site" type="4"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1369162744232_0" label="Window Working Set" name="Aggregate for window 1369162744231"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1369162939604_4" label="Window Working Set" name="Aggregate for window 1369162939604"/>
