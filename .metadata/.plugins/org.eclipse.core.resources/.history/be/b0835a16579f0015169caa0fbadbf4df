@@ -9,7 +9,7 @@
     
     <property name="project.root" location="../../"/>
     <property name="project.name" value="admin" />
- ssss 
+  ssss  
 	<!-- See the following URL for a description of this property file strategy -->
 	<!-- The only difference is we prepend a . for the home directory property files -->
 	<!-- http://www.javaranch.com/ant/properties.jsp -->
