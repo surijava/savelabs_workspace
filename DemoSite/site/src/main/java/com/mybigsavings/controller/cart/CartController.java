@@ -122,7 +122,7 @@ public class CartController extends BroadleafCartController {
             return super.add(request, response, model, addToCartItem);
         } catch (AddToCartException e) {
             Product product = catalogService.findProductById(addToCartItem.getProductId());
-           System.out.println("hello hybris");
+           System.out.println("hello");
             return "redirect:" + product.getUrl();
             
         }
